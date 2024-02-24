@@ -8,7 +8,7 @@ Welcome to the TravelDiaries landing page! This page serves as the gateway to ou
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -18,7 +18,7 @@ The TravelDiaries landing page is designed to captivate visitors with stunning v
 
 1. **Navigation:** A user-friendly navigation menu at the top of the page allows easy access to different sections of the website, including Home, Destinations, Blog, About, and Contact.
 
-2. **Hero Section:** The hero section features a captivating image and enticing text, inviting visitors to explore the world and share their travel experiences with TravelDiaries.
+2. **Home Section:** The hero section features a captivating image and enticing text, inviting visitors to explore the world and share their travel experiences with TravelDiaries.
 
 3. **Featured Destinations:** Showcase of handpicked destinations with enticing images and brief descriptions, encouraging visitors to learn more about each destination and plan their own adventures.
 
@@ -38,9 +38,7 @@ Feel free to explore the landing page and navigate through its various sections 
 
 We welcome contributions from the community to enrich the content and features of the TravelDiaries landing page. If you have ideas for enhancements or would like to report issues, please submit a pull request or open an issue on our GitHub repository.
 
-## License
-
-The TravelDiaries landing page is licensed under the [MIT License](LICENSE), allowing for free use, modification, and distribution of the codebase.
+## Gratitude
 
 Thank you for visiting TravelDiaries and joining us on our journey to explore the world one destination at a time!
 
