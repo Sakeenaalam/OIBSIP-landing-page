@@ -8,6 +8,7 @@ Welcome to the TravelDiaries landing page! This page serves as the gateway to ou
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Gratitude](#gratitude)
 
 
 ## Introduction
